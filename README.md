@@ -4,8 +4,11 @@ The goal is to parse a file that contains "commands" and output a stack.
 For example:
 
 input.txt
+
 push 1
+
 quit
 
 output.txt
+
 1
